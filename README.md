@@ -5,10 +5,10 @@
 <img src="arquivos_teste_feature.png">
 <h2>Classe Conta</h2>
 <p>Com os resultados obtidos no console da etapa "Arquivo de teste", criamos a classe Conta com os métodos necessários para o teste</p>
-<img src="primeiro_metodo.png">
+<img src="primeiro_método.png">
 <img src="segundo_metodo.png">
 <img src="terceiro_metodo.png">
 <img src="quarto_metodo.png">
 <h2>Classe Runner</h2>
 <p>Para rodar o projeto foi criado a classe runner</p>
-<imh src="classe_runner.png">
+<img src="classe_runner.png">
